@@ -75,11 +75,12 @@ The system includes:
 ---
 
 ## Graphs
+<img width="832" height="301" alt="image" src="https://github.com/user-attachments/assets/69f07dc8-5a5c-4d7b-bef3-e06f3f32a7e4" />
 
-Thus the simulation of the optical communication system is obtained and the change in received power and BER display was observed successfully.
 
 ---
 
 ## RESULT
 
-*(Summarize key findings from simulation and analysis)*
+Thus the simulation of the optical communication system is obtained and the change in received power and BER display was observed successfully.
+
